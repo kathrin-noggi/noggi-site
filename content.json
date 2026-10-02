@@ -1,0 +1,972 @@
+{
+  "brand": {
+    "name": "noggi",
+    "domain": "noggi.co",
+    "tagline": "A Fusion of Art & Motion",
+    "owner": "Kathrin Troger",
+    "role": "Mixed Media Creatrix",
+    "location": "9467 Frümsen · St. Gallen · CH"
+  },
+  "contact": {
+    "email": "info@noggi.co",
+    "instagram": "https://www.instagram.com/kathrin_noggi/",
+    "instagramHandle": "@kathrin_noggi",
+    "whatsapp": "https://wa.me/41772877374",
+    "whatsappLabel": "+41 77 287 73 74",
+    "impressum": "impressum.html",
+    "agb": "agb.html"
+  },
+  "hero": {
+    "eyebrow": "Kathrin Troger · noggi · Visual Design & Motion",
+    "titleLines": [
+      "A Fusion",
+      "of Art &",
+      "Motion."
+    ],
+    "intro": "<strong>Hi, ich bin Kathrin, alias noggi.</strong><br>Ich gestalte Marken und bringe sie zum Leben: vom Logo über Layouts bis zu Animation und Live-Visuals. Was mich reizt, ist der Moment, in dem aus einer Idee <strong>etwas Bewegtes wird, das im Kopf bleibt</strong>."
+  },
+  "ticker": [
+    "Graphic Design",
+    "Editorial Design",
+    "Motion Design",
+    "Animation",
+    "KI & Experimental",
+    "VJ & Live Visuals",
+    "Branding",
+    "Cover Design",
+    "Illustration",
+    "Konzept"
+  ],
+  "work": [
+    {
+      "title": "Graphic Design",
+      "img": "assets/gd-awake.jpg",
+      "link": "graphic-design.html",
+      "count": 7
+    },
+    {
+      "title": "Motion Design",
+      "img": "assets/motion-home-thumb.png",
+      "link": "motion.html",
+      "count": 3
+    },
+    {
+      "title": "Animation / VFX",
+      "img": "assets/gamegate-anim-thumb.png",
+      "link": "animation.html",
+      "count": 5
+    },
+    {
+      "title": "Editorial Design",
+      "img": "assets/ed-ort-mockup-hard.png",
+      "link": "editorial-design.html",
+      "count": 4
+    },
+    {
+      "title": "Illustration",
+      "link": "illustration.html",
+      "img": "assets/illu-flowers.png",
+      "count": 2
+    },
+    {
+      "title": "KI & Experimental",
+      "img": "assets/ki-thumb.png",
+      "link": "ki-experimental.html",
+      "count": 2
+    },
+    {
+      "title": "VJ & Live Visuals",
+      "img": "assets/vj-live-thumb.jpg",
+      "link": "vj-sets.html",
+      "count": 2
+    }
+  ],
+  "categories": [
+    {
+      "slug": "graphic-design",
+      "name": "Graphic Design",
+      "cover": "assets/gd-awake.jpg",
+      "intro": "<strong>Visuelle Identitäten von Grund auf</strong>: Logo, Farbwelt, Typografie und Bildsprache. Daraus entsteht alles, was du im Alltag brauchst, vom Plakat bis zur Speisekarte. <strong>Druckfertig, konsistent, wiedererkennbar.</strong>",
+      "projects": [],
+      "subcategories": [
+        "gd-branding",
+        "gd-kampagne"
+      ]
+    },
+    {
+      "slug": "gd-branding",
+      "name": "Visual Identity",
+      "cover": "assets/gd-veba.jpg",
+      "intro": "<strong>Markenentwicklung von Grund auf</strong>: Logos, Farben, Typografie und Bildsprache. Identitäten, die auf <strong>jedem Medium</strong> funktionieren.",
+      "parent": "graphic-design",
+      "projects": [
+        {
+          "title": "VEGA · sugarmama",
+          "type": "gallery",
+          "img": "assets/gd-vega-mockup.png",
+          "gallery": [
+            "assets/gd-vega-mockup.png",
+            "assets/vega-visitenkarte.png",
+            "assets/gd-vega-logo.jpg",
+            "assets/gd-vega-price1.jpg",
+            "assets/gd-vega-price2.jpg"
+          ],
+          "fit": "contain",
+          "desc": "Komplettes <strong>Branding</strong> für «sugarmama, veganes Backgut by Tina» und die Submarke VEGA: Wort-Bild-Marke mit Cupcake-Motiv, Leuchtschild, Preisliste und Speisekarte. <strong>Kräftiges Schwarz-Weiss</strong> und eine runde Display-Schrift machen die Marke unverwechselbar, im Stadtraum wie auf dem Produkt.",
+          "role": "Branding & Design",
+          "subcat": "Branding & Kampagne",
+          "galleryRows": [
+            2,
+            3
+          ]
+        },
+        {
+          "title": "What's Up",
+          "type": "gallery",
+          "img": "assets/logo-whatsup-02.png",
+          "gallery": [
+            "assets/logo-whatsup-02.png",
+            "assets/wu-mockup.png",
+            "assets/gd-whatsup-bus.jpg",
+            "assets/wu-corporate.jpg",
+            "assets/gd-whatsup-wall.jpg"
+          ],
+          "fit": "contain",
+          "desc": "<strong>Branding</strong> für die Event-App «What's Up». Das handschriftliche Logo in frischem Türkis trägt vom App-Icon über das Plakat an der Bushaltestelle bis zum Wandsignet: <strong>ein System, das auf jedem Kanal wiedererkennbar bleibt</strong>.",
+          "role": "Branding & Kampagne",
+          "subcat": "Branding & Kampagne",
+          "galleryRows": [
+            3,
+            2
+          ]
+        },
+        {
+          "title": "Logos & Marken",
+          "type": "logos",
+          "img": "assets/utopia-mockup2.png",
+          "gallery": [
+            "assets/utopia-logos-clean.png",
+            "assets/utopia-mockup1.png",
+            "assets/utopia-mockup2.png",
+            "assets/logo-reco-full.png",
+            "assets/reco-mockup.png",
+            "assets/logo-whatsup-02b.png",
+            "assets/wu-mockup-new.png",
+            "assets/logo-tina.png",
+            "assets/gd-vega-mockup2.png",
+            "assets/logo-mmv-rund.png",
+            "assets/mmv-mockup.png"
+          ],
+          "desc": "<strong>Utopia</strong>, Naturkosmetik. Die fliessende Linie formt eine weibliche Silhouette, für Natürlichkeit und Eleganz.<br><br><strong>RECO</strong>, Gesundheits-Buddy mit freundlichem Roboter-Charakter.<br><br><strong>What's Up</strong>, Event-App-Logo, handschriftlich und verspielt in Türkis.<br><br><strong>sugarmama · Tina</strong>, Wort-Bild-Marke fürs vegane Backgut-Label.<br><br><strong>Mixed Media Visions</strong>, meine frühere eigene Marke. Reduziert und eigenständig.",
+          "role": "Logo & Markendesign",
+          "fit": "contain",
+          "subcat": "Logos & Identität",
+          "logoGroups": [
+            [
+              "assets/utopia-logos-clean.png",
+              "assets/utopia-mockup1.png",
+              "assets/utopia-mockup2.png"
+            ],
+            [
+              "assets/logo-reco-full.png",
+              "assets/reco-mockup.png"
+            ],
+            [
+              "assets/logo-whatsup-02b.png",
+              "assets/wu-mockup-new.png"
+            ],
+            [
+              "assets/logo-tina.png",
+              "assets/gd-vega-mockup2.png"
+            ],
+            [
+              "assets/logo-mmv-rund.png",
+              "assets/mmv-mockup.png"
+            ]
+          ]
+        }
+      ],
+      "layout": "fullscroll"
+    },
+    {
+      "slug": "gd-kampagne",
+      "name": "Kampagnen & Poster",
+      "cover": "assets/gd-awake-mockup.png",
+      "intro": "Kampagnen, Plakate und Botschaften, <strong>die wirken</strong>: vom Konzept bis in den urbanen Raum.",
+      "parent": "graphic-design",
+      "projects": [
+        {
+          "title": "Are You Awake?",
+          "type": "single",
+          "img": "assets/gd-awake-mockup.png",
+          "fit": "cover",
+          "desc": "Kampagne für eine <strong>Digital-Detox-Ausstellung in Sydney</strong>. Optische Spiralen, eine Büste mit freigelegtem Gehirn und der Leitsatz «Attention is the new currency of our time» machen Reizüberflutung sofort spürbar. <strong>Schwarz-Weiss als Gegenpol zur bunten Scroll-Welt.</strong>",
+          "role": "Kampagne & Plakatdesign",
+          "subcat": "Branding & Kampagne",
+          "gallery": [
+            "assets/gd-awake-mockup.png",
+            "assets/gd-awake-poster1.png",
+            "assets/gd-awake-poster2.png",
+            "assets/gd-awake-poster3.png"
+          ]
+        },
+        {
+          "title": "GameGate · Quest Templates",
+          "role": "Graphic Design · Kampagne",
+          "img": "assets/gamegate-mockup1.png",
+          "gallery": [
+            "assets/gamegate-mockup1.png",
+            "assets/gamegate-mockup2.png",
+            "assets/gamegate-daily.png",
+            "assets/gamegate-weekly.png",
+            "assets/gamegate-weekend.png",
+            "assets/gamegate-monthly.png"
+          ],
+          "fit": "contain",
+          "desc": "<strong>Quest-Templates</strong> für die Gaming-Plattform GameGate: Daily, Weekly, Weekend und Monthly, jedes Format mit eigener Farbwelt. Ein <strong>Baukastensystem</strong>, mit dem jedes Turnier in Minuten angekündigt ist."
+        },
+        {
+          "title": "Creators United",
+          "type": "gallery",
+          "img": "assets/cu-mockup.png",
+          "gallery": [
+            "assets/cu-mockup.png",
+            "assets/gd-creators-poster.png",
+            "assets/gd-creators-2.jpg"
+          ],
+          "fit": "contain",
+          "desc": "<strong>«Buy Nothing. Create Everything.»</strong> Ein Manifest gegen Überkonsum: plakative Typografie, dokumentarisches Schwarz-Weiss und ein leuchtendes Gelb geben der Kampagne die <strong>Energie einer Bewegung</strong>.",
+          "role": "Kampagne & Editorial",
+          "subcat": "Branding & Kampagne"
+        },
+        {
+          "title": "Open Idea",
+          "type": "single",
+          "img": "assets/gd-openidea-mockup.png",
+          "fit": "contain",
+          "desc": "Plakatserie für die Designtalk-Reihe «Open Idea» an der FH Vorarlberg. Ein <strong>generatives Punkteraster</strong> wechselt pro Talk Farbe und Form: die Reihe bleibt als System erkennbar, <strong>jedes Plakat ist einzigartig</strong>.",
+          "role": "Plakatserie",
+          "subcat": "Poster & Cover Design",
+          "gallery": [
+            "assets/gd-openidea-mockup.png",
+            "assets/gd-openidea-1.jpg",
+            "assets/gd-openidea-2.jpg",
+            "assets/gd-openidea-3.jpg"
+          ]
+        },
+        {
+          "title": "Vernissage",
+          "type": "single",
+          "img": "assets/gd-vernissage-mockup.png",
+          "fit": "contain",
+          "desc": "<strong>Plakat-Triptychon</strong> für eine Pixelart-Ausstellung: WITHIN, OPEN, CLOSED. Glitch-Effekte und der Wechsel von hell zu dunkel erzählen den Bogen <strong>von der Vernissage bis zur Finissage</strong>.",
+          "role": "Plakatdesign",
+          "subcat": "Poster & Cover Design",
+          "gallery": [
+            "assets/gd-vernissage-mockup.png",
+            "assets/gd-vernissage-closed.png",
+            "assets/gd-vernissage-within.png",
+            "assets/gd-vernissage-open.png"
+          ]
+        }
+      ],
+      "layout": "fullscroll"
+    },
+    {
+      "slug": "editorial-design",
+      "name": "Editorial Design",
+      "cover": "assets/ed-ort-mockup-hard.png",
+      "intro": "<strong>Publikationen, die klar aufgebaut sind und sich gut lesen</strong>: durchdachte Gestaltung, sorgfältige Typografie und ein Lesefluss, der führt. Vom Magazin bis zum Jahresbericht, <strong>druckfertig als PDF/X</strong>.",
+      "subcategories": [
+        "ed-magazin",
+        "ed-corporate"
+      ]
+    },
+    {
+      "slug": "illustration",
+      "name": "Illustration",
+      "layout": "fullscroll",
+      "intro": "<strong>Digitale und vektorbasierte Illustration</strong>: von Editorial-Serien für Organisationen bis zu freien, experimentellen Bildwelten.",
+      "cover": "assets/illu-flowers.png",
+      "projects": [
+        {
+          "title": "Männer Fragen",
+          "role": "Illustration · Editorial",
+          "fit": "contain",
+          "desc": "<strong>Illustrationsserie für eine Männerberatung</strong>: warme, alltagsnahe Szenen zu Beratung, Vorträgen, Vater-Kind-Momenten und dem Jonglieren zwischen Rollen. Eine einladende Bildsprache, die ein <strong>sensibles Angebot zugänglich</strong> macht.",
+          "gallery": [
+            "assets/mf-toni.png",
+            "assets/mf-vortrag.png",
+            "assets/mf-vater.png",
+            "assets/mf-werkstatt.png",
+            "assets/mf-paarberatung.png"
+          ],
+          "galleryRows": [
+            3,
+            2
+          ]
+        },
+        {
+          "title": "Digitale Illustration",
+          "role": "Illustration · Frei",
+          "fit": "contain",
+          "desc": "Freie, digitale Illustrationen zwischen Malerei und generativer Bildsprache. Atmosphärische Porträts und symbolstarke Motive, die Emotion und Spannung ins Bild setzen.",
+          "gallery": [
+            "assets/illu-collage.png",
+            "assets/illu-flowers.png",
+            "assets/illu-deepthought.png",
+            "assets/illu-globe.jpg"
+          ],
+          "stack": true
+        }
+      ]
+    },
+    {
+      "slug": "ed-magazin",
+      "name": "Magazin & Bücher",
+      "cover": "assets/ed-wave-mockup.png",
+      "intro": "Magazine, Buchgestaltungen und Cover, mehrseitige Publikationen mit klarer Struktur und sorgfältiger Typografie.",
+      "layout": "fullscroll",
+      "projects": [
+        {
+          "title": "wave · Das Surfmagazin",
+          "role": "Editorial Design · Magazin",
+          "img": "assets/ed-wave-mockup.png",
+          "gallery": [
+            "assets/ed-wave-mockup.png",
+            "assets/ed-wave-cover1.png",
+            "assets/ed-wave-cover2.png",
+            "assets/ed-wave-cover3.png"
+          ],
+          "fit": "contain",
+          "desc": "Drei Ausgaben des fiktiven Surfmagazins <strong>«wave»</strong>. Gleicher Aufbau, drei eigene Handschriften: fotografisch, typografisch, illustrativ. <strong>Bewegtbild-Energie trifft klassische Magazin-Typografie.</strong>",
+          "galleryRows": [
+            1,
+            3
+          ],
+          "gallerySingleFull": true,
+          "galleryRowScale": [
+            1,
+            0.82
+          ]
+        },
+        {
+          "title": "Ein möglicher Ort",
+          "role": "Editorial Design · Buchgestaltung",
+          "img": "assets/ed-ort-mockup-hard.png",
+          "gallery": [
+            "assets/ed-ort-mockup-hard.png",
+            "assets/ed-ort-titelbild.png",
+            "assets/ed-ort-mockup-standing.png",
+            "assets/ed-ort-poster.png"
+          ],
+          "fit": "contain",
+          "desc": "Buchgestaltung und Cover-Artwork zum Animationsfilm <strong>«Ein möglicher Ort»</strong>. Low-Poly-Ästhetik und warmes Gegenlicht stehen für Schutz und Vorstellbarkeit: ein <strong>konsistentes visuelles Paket</strong> aus Cover, Poster und Titelbild."
+        },
+        {
+          "title": "Magazin- und Buchgestaltung",
+          "role": "Editorial Design · Buch & Magazin",
+          "img": "assets/ed-wa-mockup.png",
+          "gallery": [
+            "assets/ed-wa-mockup.png",
+            "assets/ed-gedichte-mockup1.png",
+            "assets/ed-gedichte-mockup2.png"
+          ],
+          "fit": "contain",
+          "desc": "Zwei Buchgestaltungen: ein <strong>Leitfaden für wissenschaftliches Arbeiten</strong> mit klarem Aufbau und Infografiken, und eine <strong>Gedichtsammlung</strong>, die mit Stille, Serifen und Weissraum arbeitet. Jedes Gedicht bekommt seinen eigenen Raum."
+        }
+      ]
+    },
+    {
+      "slug": "ed-corporate",
+      "name": "Corporate & Print",
+      "cover": "assets/ed-frauenhaus-mockup-brosch.png",
+      "intro": "Broschüren, Flyer, Visitenkarten und Geschäftsdrucksachen, klar gestaltet und vertrauenswürdig im Auftritt.",
+      "layout": "fullscroll",
+      "projects": [
+        {
+          "title": "Frauenhaus Liechtenstein · Beratungsstelle",
+          "role": "Editorial Design · Print",
+          "img": "assets/ed-frauenhaus-mockup-brosch.png",
+          "gallery": [
+            "assets/ed-frauenhaus-mockup-brosch.png",
+            "assets/ed-frauenhaus-mockup-flyer.png",
+            "assets/ed-frauenhaus-mockup-vk.png",
+            "assets/ed-frauenhaus-flyer1.jpg",
+            "assets/ed-frauenhaus-flyer2.jpg",
+            "assets/fh-1.jpg",
+            "assets/fh-2.jpg",
+            "assets/fh-3.jpg",
+            "assets/fh-4.jpg",
+            "assets/ed-frauenhaus-vk2.jpg",
+            "assets/ed-frauenhaus-vk1.jpg"
+          ],
+          "fit": "contain",
+          "desc": "<strong>Gesamtauftritt für das Frauenhaus Liechtenstein</strong>: Flyer, Broschüre und Visitenkarten. Zurückhaltende Erdtöne, klare Typografie und viel Raum übersetzen ein sensibles Thema in eine <strong>ruhige, würdevolle Bildsprache</strong>. Die Notrufnummer ist auf jeder relevanten Seite sofort sichtbar."
+        },
+        {
+          "title": "Typo Variiert · das Magazin",
+          "role": "Editorial Design · Magazin",
+          "img": "assets/gd-typo-challenge.jpg",
+          "gallery": [
+            "assets/gd-typo-challenge.jpg",
+            "assets/typo-mag-1.png",
+            "assets/typo-mag-2.png",
+            "assets/typo-mag-3.png",
+            "assets/typo-mag-4.png"
+          ],
+          "fit": "contain",
+          "desc": "Ein selbst konzipiertes Magazin, das <strong>Typografie als Hauptdarstellerin</strong> feiert: Serifen gegen Grotesken, Fläche gegen Weissraum, klassisch gegen experimentell. Im Video blättert das Magazin durch.",
+          "video": "assets/magazin.mp4",
+          "vimeo": "https://player.vimeo.com/video/1200072383"
+        },
+        {
+          "title": "Jahresbericht Männerfragen 2025",
+          "role": "Editorial Design · Jahresbericht",
+          "img": "assets/jb-mockup.png",
+          "gallery": [
+            "assets/jb-mockup.png",
+            "assets/jb-kern-mockup.png",
+            "assets/mf-report-5.png",
+            "assets/mf-report-10.png",
+            "assets/mf-report-16.png",
+            "assets/mf-report-22.png"
+          ],
+          "fit": "contain",
+          "desc": "<strong>Jahresbericht 2025</strong> für die Fachstelle Männerfragen Liechtenstein. Umgesetzt <strong>nach den Vorgaben des Kunden</strong>, mit klarer Struktur, informativen Infografiken und den Leitfarben Braun und Blau. Ein seriöser, zugänglicher Auftritt im gewünschten Rahmen.",
+          "galleryRows": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "motion",
+      "name": "Motion Design",
+      "cover": "assets/motion-home-thumb.png",
+      "intro": "<strong>Marken und Inhalte in Bewegung</strong>: animierte Logos, Kinetic Typography und kurze Clips für Social und Screen. Exportfertig im richtigen Format, vom <strong>9:16-Reel bis 16:9</strong>.",
+      "projects": [],
+      "layout": null,
+      "subcategories": [
+        "md-logos",
+        "md-character",
+        "md-music"
+      ]
+    },
+    {
+      "slug": "md-logos",
+      "name": "Logos & Marken",
+      "layout": "fullscroll",
+      "cover": "assets/md-logos-thumb.png",
+      "intro": "Animierte Logos und bewegte Wort-Bild-Marken.",
+      "projects": [
+        {
+          "title": "Logos & Marken in Bewegung",
+          "role": "Motion · Logo & Branding Animation",
+          "fit": "cover",
+          "desc": "Logo-Animationen und bewegte Wort-Bild-Marken: Reveals, Loops und kurze Branding-Sequenzen, die einer Marke Bewegung und Charakter geben.",
+          "videos": [
+            "https://player.vimeo.com/video/1201722391",
+            "https://player.vimeo.com/video/1201729069",
+            "https://player.vimeo.com/video/1201729525",
+            "https://player.vimeo.com/video/1201730682",
+            "https://player.vimeo.com/video/1201732314",
+            "https://player.vimeo.com/video/1201788775",
+            "https://player.vimeo.com/video/1201726983",
+            "https://player.vimeo.com/video/1201727011"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "md-character",
+      "name": "Charakteranimation",
+      "layout": "fullscroll",
+      "cover": "assets/md-character-thumb.png",
+      "intro": "Animierte Figuren für Erklärvideos, Brand-Avatare und Storytelling.",
+      "projects": [
+        {
+          "title": "Avatar · Sichtbar ohne Kamera",
+          "role": "Character Animation · Storytelling",
+          "fit": "cover",
+          "desc": "Ein gezeichneter, animierter <strong>Avatar mit authentischer Stimme</strong>, für alle, die sichtbar sein wollen, ohne selbst vor die Kamera zu treten. Einsetzbar fuer Reels, Erklaervideos und ganze Kampagnen, <strong>immer im eigenen Stil</strong>.",
+          "videos": [
+            "https://player.vimeo.com/video/1214527237",
+            "https://player.vimeo.com/video/1201722766",
+            "https://player.vimeo.com/video/1201722767",
+            "https://player.vimeo.com/video/1201728035",
+            "https://player.vimeo.com/video/1201726693",
+            "https://player.vimeo.com/video/1201722858"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "md-music",
+      "name": "Musikvideos & Canvas",
+      "layout": "fullscroll",
+      "cover": "assets/md-music-thumb.png",
+      "intro": "Visuals für Musikstücke, animiert wie kleine Musikvideos.",
+      "projects": [
+        {
+          "title": "Musikvideos & Canvas",
+          "role": "Motion · Music Visuals",
+          "fit": "cover",
+          "desc": "Visuals für Musikstücke, animiert wie kleine Musikvideos: Loops und Spotify-Canvas-Formate, die den Sound ins Bild übersetzen.",
+          "videos": [
+            "https://player.vimeo.com/video/1201735054",
+            "https://player.vimeo.com/video/1201739229",
+            "https://player.vimeo.com/video/1200111419",
+            "https://player.vimeo.com/video/1201779520",
+            "https://player.vimeo.com/video/1225229900",
+            "https://player.vimeo.com/video/1225230385",
+            "https://player.vimeo.com/video/1225230961"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "animation",
+      "name": "Animation / VFX",
+      "cover": "assets/gamegate-anim-thumb.png",
+      "intro": "<strong>Handgemachtes Bewegtbild mit Charakter</strong>: gezeichnete Figuren, bewegte Illustration, VFX und Compositing. Für alles, was sich <strong>vom glatten Standard abheben</strong> soll.",
+      "projects": [
+        {
+          "title": "Verein für Menschenrechte",
+          "role": "Animation · Erklärvideo",
+          "videos": [
+            "https://player.vimeo.com/video/1225234819"
+          ],
+          "fit": "contain",
+          "desc": "Ein <strong>animiertes Erklärvideo</strong> für den Verein für Menschenrechte, das ein sensibles Thema zugänglich und würdevoll erzählt. <strong>Bewusst ruhig und reduziert gehalten</strong>, damit die Botschaft im Vordergrund steht.",
+          "mediaAlign": "left",
+          "videoAspect": 0.5625
+        },
+        {
+          "title": "Kinotrailer Suchtprävention",
+          "role": "Animation · Kinotrailer",
+          "videos": [
+            "https://player.vimeo.com/video/1225236117"
+          ],
+          "fit": "contain",
+          "videoAspect": 0.5625,
+          "mediaAlign": "left",
+          "desc": "Ein <strong>Kinotrailer für die Suchtprävention</strong>, der auf der grossen Leinwand Aufmerksamkeit schafft und ein wichtiges Thema wirkungsvoll transportiert."
+        },
+        {
+          "title": "Branding in Bewegung",
+          "role": "Animation / VFX · Branding Motion",
+          "fit": "cover",
+          "desc": "<strong>Animation und Spezialeffekte im Dienst der Marke</strong>: Logo-Reveals und bewegte Markenwelten für Intro, Social Media, Web und Event.",
+          "videos": [
+            "https://player.vimeo.com/video/1200089363",
+            "https://player.vimeo.com/video/1200081761"
+          ]
+        },
+        {
+          "title": "VFX",
+          "role": "Animation / VFX · Compositing",
+          "fit": "cover",
+          "desc": "Eine Auswahl an VFX- und Compositing-Arbeiten: Effekte, Texturen und bewegte Bildwelten, gebaut und zusammengesetzt in After Effects.",
+          "videos": [
+            "https://player.vimeo.com/video/1201722259",
+            "https://player.vimeo.com/video/1201727873",
+            "https://player.vimeo.com/video/1201735442"
+          ]
+        },
+        {
+          "title": "Transitions",
+          "role": "Animation / VFX · Experimentell",
+          "fit": "cover",
+          "desc": "Eine Serie kurzer Übergänge und Sequenzen mit verwandter Bildsprache: fliessende Transitions, dicht, experimentell, ungewöhnlich. Entstanden in After Effects mit KI-gestützten Elementen.",
+          "videos": [
+            "https://player.vimeo.com/video/1201715614",
+            "https://player.vimeo.com/video/1201715732",
+            "https://player.vimeo.com/video/1201716091",
+            "https://player.vimeo.com/video/1201716530"
+          ]
+        },
+        {
+          "title": "Fracture",
+          "role": "Animation / VFX · Sound & Material",
+          "fit": "cover",
+          "desc": "Bewegtbild zum Projekt <strong>FRACTURE</strong> über Brüche in Material, Bild und Ton. Kleine Sprengungen, erfasst mit <strong>High-Speed-Kameras und seismischen Sensoren</strong>, treffen auf Granularsynthese und Video-Diffusion. Teil eines Gestaltungsprojekts mit AR-Katalog.",
+          "videos": [
+            "https://player.vimeo.com/video/1201719199"
+          ],
+          "mediaMax": "bleed-right"
+        },
+        {
+          "title": "Ein möglicher Ort",
+          "role": "Animationsfilm",
+          "fit": "cover",
+          "desc": "Ein <strong>58 Sekunden langer Animationsfilm</strong> im Hochformat, ganz ohne Sprache. Er erzählt eine innere Reise von Beklemmung zu Sicherheit und macht spürbar, wie es sich anfühlen kann, in einem Frauenhaus anzukommen. Scharfkantige Fragmente und kalte Blautöne ordnen sich nach und nach zu <strong>warmem Orange und Gold</strong>.",
+          "gallery": [],
+          "videos": [
+            "https://player.vimeo.com/video/1201740076"
+          ],
+          "videoAspect": 0.5625,
+          "mediaMax": "940px",
+          "mediaAlign": "left"
+        }
+      ],
+      "layout": "fullscroll"
+    },
+    {
+      "slug": "ki-experimental",
+      "name": "KI & Experimental",
+      "cover": "assets/ki-thumb.png",
+      "intro": "<strong>Generative Werkzeuge, gezielt eingesetzt</strong>: KI-gestützte Bildwelten, experimentelle Visuals und interaktive Installationen. KI ist mein Werkzeug, <strong>Idee und Gestaltung kommen von mir</strong>.",
+      "projects": [
+        {
+          "title": "Fohramoos",
+          "role": "Interaktive Installation · Sound & Visuals",
+          "desc": "<strong>Interaktive Klang- und Bildinstallation am Sónar+D in Barcelona</strong> (FH Vorarlberg). Über echtes Moos und Pflanzen steuern Besucher:innen Klang und Visuals: jede Berührung erzeugt neue Töne, während eine Punktwolken-Visualisierung durch das Fohramoos führt. Eine <strong>sinnliche Annäherung an einen bedrohten Naturraum</strong>.",
+          "videos": [
+            "https://player.vimeo.com/video/1201711653",
+            "https://player.vimeo.com/video/1201711655"
+          ],
+          "img": "assets/sonar-fohramoos-thumb.jpg",
+          "gallery": [
+            "assets/sonar-fohramoos-thumb.jpg",
+            "assets/sonar-fohramoos-1.jpg",
+            "assets/sonar-fohramoos-2.jpg"
+          ],
+          "fit": "cover"
+        },
+        {
+          "title": "Komorebi",
+          "role": "KI & Experimental · Animationsfilm",
+          "videos": [
+            "https://player.vimeo.com/video/1225235506"
+          ],
+          "fit": "contain",
+          "desc": "Ein <strong>KI-gestützter Animationsfilm</strong> zum japanischen Wort «Komorebi», dem Licht, das durch Blätter fällt. Eine ruhige, atmosphärische Studie über Licht, Schatten und Bewegung."
+        },
+        {
+          "title": "Filter Failure",
+          "role": "Experimental Media · Visual Essay",
+          "fit": "cover",
+          "desc": "Ein experimenteller <strong>Visual Essay über Schönheit, Kontrolle und Widerstand</strong>, inspiriert vom Cyberfeministischen Manifest. Im Zentrum: ein Gesicht, gespalten zwischen echter und optimierter Version. <strong>Der Moment, in dem wir aufhören zu performen und wieder Mensch werden.</strong>",
+          "gallery": [],
+          "videos": [
+            "https://player.vimeo.com/video/1201735715"
+          ],
+          "mediaMax": "bleed-right"
+        }
+      ],
+      "layout": "fullscroll"
+    },
+    {
+      "slug": "vj-sets",
+      "name": "VJ & Live Visuals",
+      "cover": "assets/vj-live-thumb.jpg",
+      "intro": "<strong>Visuals, die mit dem Moment leben</strong>: Echtzeit-Grafik und VJ-Sets für Clubs, Konzerte und Bühnen. Loops, die auf Musik und Stimmung reagieren, <strong>live gemischt vor Ort</strong>.",
+      "projects": [
+        {
+          "title": "VJ Gig · Live Performance",
+          "role": "VJ & Live Visuals · Performance",
+          "img": "assets/vj-liveperformance.jpg",
+          "gallery": [
+            "assets/vj-liveperformance.jpg"
+          ],
+          "vimeo": "https://player.vimeo.com/video/1200098995",
+          "fit": "contain",
+          "desc": "<strong>Live-VJ-Performance</strong>: visuelle Welten, in Echtzeit generiert und auf die Musik abgestimmt. <strong>Jeder Gig ist einmalig.</strong> Das Video gibt einen Eindruck einer Live-Situation mit Publikum."
+        },
+        {
+          "title": "Visuals",
+          "role": "VJ & Live Visuals · Loops",
+          "fit": "cover",
+          "desc": "<strong>Audioreaktive Visual-Loops</strong>, eng auf die Musik abgestimmt: dichte, organische Bildwelten in Lila- und Neontönen, die <strong>mit Rhythmus und Bass mitatmen</strong>.",
+          "videos": [
+            "https://player.vimeo.com/video/1200110677",
+            "https://player.vimeo.com/video/1201720194",
+            "https://player.vimeo.com/video/1201781552",
+            "https://player.vimeo.com/video/1201786290",
+            "https://player.vimeo.com/video/1201786283",
+            "https://player.vimeo.com/video/1201786639",
+            "https://player.vimeo.com/video/1201792297",
+            "https://player.vimeo.com/video/1200099049",
+            "https://player.vimeo.com/video/1201717438"
+          ],
+          "gallery": []
+        }
+      ],
+      "layout": "fullscroll"
+    }
+  ],
+  "stats": [
+    {
+      "num": "BA",
+      "label": "Bachelor of Arts & Design ·<br>FHV Vorarlberg ·<br>Exchange UTS Sydney"
+    },
+    {
+      "num": "CH·FL·AT",
+      "label": "Regional verwurzelt,<br>überregional vernetzt"
+    },
+    {
+      "num": "3+",
+      "label": "Jahre aktive<br>Freelance-Tätigkeit"
+    },
+    {
+      "num": "7",
+      "label": "7 Kompetenzfelder,<br>interdisziplinär"
+    }
+  ],
+  "disciplines": [
+    {
+      "num": "01",
+      "name": "Graphic Design",
+      "desc": "Logos, Branding und visuelle Identitäten, die sofort wiedererkannt werden und überall funktionieren.",
+      "detailBullets": [
+        {
+          "l": "Marke von Grund auf:",
+          "t": "Logo, Wort-Bild-Marke, Farben, Typografie und Bildsprache."
+        },
+        {
+          "l": "Anwendung:",
+          "t": "Plakate, Flyer, Verpackung, Speise- und Preiskarten, Geschäftsausstattung und Social-Media-Vorlagen."
+        },
+        {
+          "l": "Leitfaden:",
+          "t": "alles zusammengefasst in einem klaren Marken-Guide."
+        },
+        {
+          "l": "Lieferung:",
+          "t": "druckfertige Dateien plus Vorlagen zum Selbstbefüllen."
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "name": "Editorial Design",
+      "desc": "Magazine, Bücher und Jahresberichte, klar gebaut und angenehm zu lesen.",
+      "detailBullets": [
+        {
+          "l": "Formate:",
+          "t": "Magazine, Bücher, Geschäfts- und Jahresberichte, Broschüren, Folder und Cover."
+        },
+        {
+          "l": "Gestaltung:",
+          "t": "klarer Aufbau, sorgfältige Typografie und ein Lesefluss, der durch den Inhalt führt."
+        },
+        {
+          "l": "Druckfertig:",
+          "t": "Reinzeichnung und Abgabe als PDF/X, auf Wunsch mit Begleitung bis zur Druckerei."
+        },
+        {
+          "l": "Ergebnis:",
+          "t": "ein Dokument, das hochwertig wirkt, in Print und digital."
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "name": "Illustration",
+      "desc": "Digitale und vektorbasierte Illustration: von Editorial-Serien bis zu freien Bildwelten.",
+      "detailBullets": [
+        {
+          "l": "Stile:",
+          "t": "digitale Malerei, Vektor-Illustration und atmosphärische Porträts."
+        },
+        {
+          "l": "Einsatz:",
+          "t": "Editorial-Serien für Organisationen, Kampagnenmotive, Cover und freie Arbeiten."
+        },
+        {
+          "l": "Lieferung:",
+          "t": "druckfähige und web-optimierte Dateien, auf Wunsch als Serie mit einheitlicher Bildsprache."
+        }
+      ]
+    },
+    {
+      "num": "04",
+      "name": "Motion Design",
+      "desc": "Animierte Logos, Kinetic Type und 2D-Motion. Marken und Inhalte, die sich bewegen.",
+      "detailBullets": [
+        {
+          "l": "Bewegtbild:",
+          "t": "animierte Logos und Logo-Reveals, Kinetic Typography, bewegte Grafiken und kurze Social- oder Erklär-Clips."
+        },
+        {
+          "l": "Umsetzung:",
+          "t": "in After Effects, gestaltet passend zu Marke, Kanal und Botschaft."
+        },
+        {
+          "l": "Lieferung:",
+          "t": "exportfertige Videos für jeden Kanal, auf Wunsch mit Sound."
+        }
+      ]
+    },
+    {
+      "num": "05",
+      "name": "Animation",
+      "desc": "Gezeichnete Charaktere, bewegte Illustration und VFX. Bewegtbild mit eigener Handschrift.",
+      "detailBullets": [
+        {
+          "l": "Techniken:",
+          "t": "gezeichnete Figuren, Charakter-Design, bewegte Illustration sowie VFX und Compositing."
+        },
+        {
+          "l": "Ablauf:",
+          "t": "von der Idee über Storyboard und Animatic bis zur fertig vertonten Sequenz."
+        },
+        {
+          "l": "Ideal für:",
+          "t": "Erklärformate, Musikvideos, Title-Sequenzen und alles, was sich vom glatten Standard abhebt."
+        }
+      ]
+    },
+    {
+      "num": "06",
+      "name": "KI & Experimental",
+      "desc": "Generative Visuals, KI-Video und experimentelle Bildwelten, zwischen Werkzeug und Kunst.",
+      "detailBullets": [
+        {
+          "l": "Einsatz:",
+          "t": "KI-gestützte Bildwelten, experimentelle Visuals und Video, schnelle Konzeptbilder."
+        },
+        {
+          "l": "Nutzen:",
+          "t": "Ideen früh sichtbar machen und Looks entwickeln, die mit klassischen Mitteln kaum entstehen."
+        },
+        {
+          "l": "Grundsatz:",
+          "t": "KI ist für mich ein Werkzeug von vielen. Ein gutes Ergebnis entsteht erst im Zusammenspiel mit Gestaltung."
+        }
+      ]
+    },
+    {
+      "num": "07",
+      "name": "VJ & Live Visuals",
+      "desc": "Echtzeit-Visuals, Performance-Loops und VJ-Sets, die mit dem Moment leben.",
+      "detailBullets": [
+        {
+          "l": "Live:",
+          "t": "Echtzeit-Grafik und VJ-Sets für Events, Clubs, Konzerte und Bühnen."
+        },
+        {
+          "l": "Reaktiv:",
+          "t": "Loops und Visuals, die auf Musik, BPM und Stimmung reagieren, live gemischt vor Ort."
+        },
+        {
+          "l": "Abgestimmt:",
+          "t": "auf Bühne und Licht, für eine visuelle Ebene, die die Energie im Raum trägt."
+        }
+      ]
+    }
+  ],
+  "about": {
+    "eyebrow": "Über mich",
+    "nameLines": [
+      "Mixed Media",
+      "Creatrix."
+    ],
+    "tagOnImage": "Kathrin Troger · noggi",
+    "paragraphs": [
+      "Während meines <strong>Bachelor of Arts</strong> habe ich mich mit <strong>noggi</strong> selbstständig gemacht und arbeite ausserdem als freie Gestalterin für die <strong>Agentur Evolve</strong>.",
+      "Mich interessiert vor allem die Entwicklung <strong>eigenständiger visueller Welten</strong>, in denen <strong>Animation, Motion Design, KI und Graphic Design</strong> zusammenfinden.",
+      "Ich arbeite <strong>medienübergreifend</strong>, zwischen digitalem Raum und physischer Erfahrung, von Print bis Live."
+    ],
+    "tags": [
+      "Graphic Design",
+      "Editorial Design",
+      "Motion Design",
+      "Animation",
+      "KI & Experimental",
+      "VJ & Live Visuals",
+      "Illustration"
+    ],
+    "img": "assets/kathrin-quadrat.png"
+  },
+  "cta": {
+    "lines": [
+      "Projekt?",
+      "Idee?",
+      "Schreib mir."
+    ],
+    "sub": "<strong>Ich freue mich auf deine Anfrage.</strong><br>Für Einzelprojekte, laufende Zusammenarbeit und langfristige Partnerschaften."
+  },
+  "process": {
+    "label": "Mein Prozess",
+    "title": "So arbeiten wir zusammen",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Kennenlernen",
+        "desc": "Wir starten mit einem <strong>persönlichen Gespräch</strong>. Ich höre zu, verstehe dein Projekt und finde gemeinsam mit dir heraus, <strong>was wirklich gebraucht wird</strong>."
+      },
+      {
+        "num": "02",
+        "title": "Konzeption",
+        "desc": "Auf Basis deiner Ziele entwickle ich ein <strong>visuelles Konzept</strong>, das zu dir und deiner Marke passt.<br><strong>Du bist von Anfang an eingebunden.</strong>"
+      },
+      {
+        "num": "03",
+        "title": "Produktion",
+        "desc": "Ich setze dein Projekt <strong>sorgfältig und termingerecht</strong> um. Du bist immer informiert und kannst dich jederzeit melden."
+      },
+      {
+        "num": "04",
+        "title": "Lieferung",
+        "desc": "Du erhältst alle Dateien <strong>übersichtlich und gebrauchsfertig</strong>. Auch nach der Übergabe stehe ich dir gerne für Fragen zur Verfügung."
+      }
+    ]
+  },
+  "wormImages": [
+    "assets/gd-awake-mockup.png",
+    "assets/vw-ki-visual.jpg",
+    "assets/visual-still-4.jpg",
+    "assets/vj-liveperformance.jpg",
+    "assets/ed-wave-mockup.png"
+  ],
+  "wormMedia": [
+    {
+      "type": "img",
+      "src": "assets/gd-awake-billboard.jpg",
+      "label": "Graphic Design"
+    },
+    {
+      "type": "vid",
+      "src": "assets/worm-characters.mp4",
+      "alt": "assets/worm-characters.webm",
+      "label": "Animation"
+    },
+    {
+      "type": "vid",
+      "src": "assets/worm-flowers.mp4",
+      "alt": "assets/worm-flowers.webm",
+      "shape": "oval",
+      "label": "Illustration"
+    },
+    {
+      "type": "vid",
+      "src": "assets/worm-avatar.mp4",
+      "alt": "assets/worm-avatar.webm",
+      "shape": "oval-hoch",
+      "label": "Motion Design"
+    },
+    {
+      "type": "vid",
+      "src": "assets/worm-magazin.mp4",
+      "alt": "assets/worm-magazin.webm",
+      "label": "Editorial Design"
+    },
+    {
+      "type": "vid",
+      "src": "assets/worm-pink.mp4",
+      "alt": "assets/worm-pink.webm",
+      "shape": "oval-hoch",
+      "label": "KI & Experimental"
+    },
+    {
+      "type": "vid",
+      "src": "assets/worm-polaris.mp4",
+      "alt": "assets/worm-polaris.webm",
+      "shape": "oval",
+      "label": "VJ & Live Visuals"
+    }
+  ]
+}

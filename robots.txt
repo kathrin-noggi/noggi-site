@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /impressum.html
+Disallow: /agb.html
+
+Sitemap: https://noggi.co/sitemap.xml
